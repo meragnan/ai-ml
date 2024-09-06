@@ -1,4 +1,4 @@
-# ProfessionalMachine Learning Course Materials
+# Professional Machine Learning Engineer on Google Cloud
 
 **Description:**
 This repository contains materials for a machine learning course, covering topics such as linear regression, classification, neural networks, and more with focus of Google Cloud Machine Learning
